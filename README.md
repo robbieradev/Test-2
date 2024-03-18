@@ -13,3 +13,7 @@
  "additional check" - 23:27
 
  blabla
+
+ ## Local Development
+ 
+ 1. Open index.html in your browser. :)
