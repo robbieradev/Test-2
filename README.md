@@ -17,6 +17,3 @@
  ## Local Development
  
  1. Open index.html in your browser. :) :o
-
-
- 2. Second update, because the first one didn't pull correctly into the main branch, methinks. :D
